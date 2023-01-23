@@ -1,6 +1,4 @@
-## Building code, not walls ✌🏻
-
----
+# Building code, not walls ✌🏻
 
 ![fox_me](assets/fox.jpg)
 
@@ -41,4 +39,8 @@ I think that the combination of the creative thinking of an architect and the IT
 
 - creating BTApp on self-design: **[BTApp](https://mlisek96.github.io/BTApp/)** 💰
 - be official at: [Linkedin](https://www.linkedin.com/in/96mateuszlis/) 👨🏻‍💼
+
+<div align="center">  
+👮‍♂️ Image made by Freepik
+</div>
 
