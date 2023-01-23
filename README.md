@@ -1,4 +1,4 @@
-# Building code, not walls ✌🏻
+# Build code, not walls ✌🏻
 
 ![fox_me](assets/fox.jpg)
 
